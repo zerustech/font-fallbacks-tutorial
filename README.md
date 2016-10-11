@@ -65,7 +65,7 @@ $ open -a xcode.app DefaultFontFallbacks.plist
 
 Add the new fallback font in the plist as follows:
 
-<img src="images/default-font-fallbacks-plist.png" width="800" alt="DefaultFontFallbacks.plist" />
+![DefaultFontFallbacks.plist](images/default-font-fallbacks-plist.png)
 
 ::: info-box note
 
