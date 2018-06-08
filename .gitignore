@@ -1,7 +1,0 @@
-vendor
-.buildpath
-.project
-.settings
-*.swp
-test
-.DS_Store
